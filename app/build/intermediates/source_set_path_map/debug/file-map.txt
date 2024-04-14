@@ -25,10 +25,10 @@ com.example.myapplication.app-startup-runtime-1.1.1-23 C:\Users\Bartek\.gradle\c
 com.example.myapplication.app-lifecycle-viewmodel-savedstate-2.6.1-24 C:\Users\Bartek\.gradle\caches\transforms-3\e67cd3cb6b53044571be651b9dfbb009\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
 com.example.myapplication.app-lifecycle-runtime-2.6.1-25 C:\Users\Bartek\.gradle\caches\transforms-3\f15dbc6bf3f63eb3e37b9668bd7d8105\transformed\lifecycle-runtime-2.6.1\res
 com.example.myapplication.app-material-1.11.0-26 C:\Users\Bartek\.gradle\caches\transforms-3\f833da28e5f947ed6f269d0e4f2fbe52\transformed\material-1.11.0\res
-com.example.myapplication.app-pngs-27 I:\fohr\app\build\generated\res\pngs\debug
-com.example.myapplication.app-resValues-28 I:\fohr\app\build\generated\res\resValues\debug
-com.example.myapplication.app-packageDebugResources-29 I:\fohr\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.myapplication.app-packageDebugResources-30 I:\fohr\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.myapplication.app-merged_res-31 I:\fohr\app\build\intermediates\merged_res\debug
-com.example.myapplication.app-debug-32 I:\fohr\app\src\debug\res
-com.example.myapplication.app-main-33 I:\fohr\app\src\main\res
+com.example.myapplication.app-pngs-27 I:\pacmannik\Pacman\app\build\generated\res\pngs\debug
+com.example.myapplication.app-resValues-28 I:\pacmannik\Pacman\app\build\generated\res\resValues\debug
+com.example.myapplication.app-packageDebugResources-29 I:\pacmannik\Pacman\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.myapplication.app-packageDebugResources-30 I:\pacmannik\Pacman\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.myapplication.app-merged_res-31 I:\pacmannik\Pacman\app\build\intermediates\merged_res\debug
+com.example.myapplication.app-debug-32 I:\pacmannik\Pacman\app\src\debug\res
+com.example.myapplication.app-main-33 I:\pacmannik\Pacman\app\src\main\res

@@ -9,8 +9,8 @@
 9        android:targetSdkVersion="33" />
 10
 11    <uses-permission android:name="android.permission.GET_TASKS" />
-11-->I:\fohr\app\src\main\AndroidManifest.xml:3:5-67
-11-->I:\fohr\app\src\main\AndroidManifest.xml:3:22-65
+11-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:3:5-67
+11-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:3:22-65
 12
 13    <permission
 13-->[androidx.core:core:1.9.0] C:\Users\Bartek\.gradle\caches\transforms-3\d333ff4b3c3f350dac60fc644a50ba15\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
@@ -24,66 +24,66 @@
 17-->[androidx.core:core:1.9.0] C:\Users\Bartek\.gradle\caches\transforms-3\d333ff4b3c3f350dac60fc644a50ba15\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->I:\fohr\app\src\main\AndroidManifest.xml:5:5-29:19
+19-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:6:5-30:19
 20        android:allowBackup="true"
-20-->I:\fohr\app\src\main\AndroidManifest.xml:6:9-35
+20-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:7:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 21-->[androidx.core:core:1.9.0] C:\Users\Bartek\.gradle\caches\transforms-3\d333ff4b3c3f350dac60fc644a50ba15\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 22        android:debuggable="true"
 23        android:extractNativeLibs="false"
 24        android:icon="@mipmap/ic_launcher"
-24-->I:\fohr\app\src\main\AndroidManifest.xml:7:9-43
+24-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:8:9-43
 25        android:label="@string/app_name"
-25-->I:\fohr\app\src\main\AndroidManifest.xml:8:9-41
+25-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:9:9-41
 26        android:supportsRtl="true"
-26-->I:\fohr\app\src\main\AndroidManifest.xml:9:9-35
+26-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:10:9-35
 27        android:testOnly="true"
 28        android:theme="@style/AppTheme.NoActionBar" >
-28-->I:\fohr\app\src\main\AndroidManifest.xml:10:9-52
+28-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:11:9-52
 29        <activity
-29-->I:\fohr\app\src\main\AndroidManifest.xml:11:9-21:20
+29-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:12:9-22:20
 30            android:name="com.example.myapplication.MainActivity"
-30-->I:\fohr\app\src\main\AndroidManifest.xml:13:13-41
+30-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:14:13-41
 31            android:exported="true"
-31-->I:\fohr\app\src\main\AndroidManifest.xml:12:13-36
+31-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:13:13-36
 32            android:label="@string/app_name"
-32-->I:\fohr\app\src\main\AndroidManifest.xml:14:13-45
+32-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:15:13-45
 33            android:theme="@style/AppTheme.NoActionBar" >
-33-->I:\fohr\app\src\main\AndroidManifest.xml:15:13-56
+33-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:16:13-56
 34            <intent-filter>
-34-->I:\fohr\app\src\main\AndroidManifest.xml:16:13-20:29
+34-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:17:13-21:29
 35                <action android:name="android.intent.action.MAIN" />
-35-->I:\fohr\app\src\main\AndroidManifest.xml:17:17-69
-35-->I:\fohr\app\src\main\AndroidManifest.xml:17:25-66
+35-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:18:17-69
+35-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:18:25-66
 36
 37                <category android:name="android.intent.category.LAUNCHER" />
-37-->I:\fohr\app\src\main\AndroidManifest.xml:19:17-77
-37-->I:\fohr\app\src\main\AndroidManifest.xml:19:27-74
+37-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:20:17-77
+37-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:20:27-74
 38            </intent-filter>
 39        </activity>
 40        <activity android:name="com.example.myapplication.HelpActivity" />
-40-->I:\fohr\app\src\main\AndroidManifest.xml:22:9-49
-40-->I:\fohr\app\src\main\AndroidManifest.xml:22:19-47
+40-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:23:9-49
+40-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:23:19-47
 41        <activity android:name="com.example.myapplication.PlayActivity" />
-41-->I:\fohr\app\src\main\AndroidManifest.xml:23:9-49
-41-->I:\fohr\app\src\main\AndroidManifest.xml:23:19-47
+41-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:24:9-49
+41-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:24:19-47
 42        <activity android:name="com.example.myapplication.PauseActivity" />
-42-->I:\fohr\app\src\main\AndroidManifest.xml:24:9-50
-42-->I:\fohr\app\src\main\AndroidManifest.xml:24:19-48
+42-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:25:9-50
+42-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:25:19-48
 43        <activity android:name="com.example.myapplication.SettingsActivity" />
-43-->I:\fohr\app\src\main\AndroidManifest.xml:25:9-53
-43-->I:\fohr\app\src\main\AndroidManifest.xml:25:19-51
+43-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:26:9-53
+43-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:26:19-51
 44
 45        <service android:name="com.example.myapplication.BackgroundMusicService" />
-45-->I:\fohr\app\src\main\AndroidManifest.xml:26:9-58
-45-->I:\fohr\app\src\main\AndroidManifest.xml:26:18-56
+45-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:27:9-58
+45-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:27:18-56
 46
 47        <activity android:name="com.example.myapplication.CompletedLevelActivity" />
-47-->I:\fohr\app\src\main\AndroidManifest.xml:27:9-59
-47-->I:\fohr\app\src\main\AndroidManifest.xml:27:19-57
+47-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:28:9-59
+47-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:28:19-57
 48        <activity android:name="com.example.myapplication.FailedLevelActivity" />
-48-->I:\fohr\app\src\main\AndroidManifest.xml:28:9-56
-48-->I:\fohr\app\src\main\AndroidManifest.xml:28:19-54
+48-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:29:9-56
+48-->I:\pacmannik\Pacman\app\src\main\AndroidManifest.xml:29:19-54
 49
 50        <provider
 50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Bartek\.gradle\caches\transforms-3\1566bfeacefffdbab56e4b0ba642ef61\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20

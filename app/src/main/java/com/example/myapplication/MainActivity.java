@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.failed_layout);
         player = MediaPlayer.create(this, R.raw.pacman_song);
         player.setVolume(100, 100);
         player.setLooping(true);

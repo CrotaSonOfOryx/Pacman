@@ -4,25 +4,6 @@
             "outputFile": "com.example.myapplication.app-mergeDebugResources-29:/values/values.xml",
             "map": [
                 {
-                    "source": "I:\\fohr\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,15,10,17",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "57,540,384,634",
-                        "endLines": "8,15,13,17",
-                        "endColumns": "12,90,12,80",
-                        "endOffsets": "376,626,532,710"
-                    },
-                    "to": {
-                        "startLines": "2171,2177,2178,2182",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "154003,154287,154377,154527",
-                        "endLines": "2176,2177,2181,2182",
-                        "endColumns": "12,89,12,79",
-                        "endOffsets": "154282,154372,154522,154602"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Bartek\\.gradle\\caches\\transforms-3\\4fa0243f71181043bfee7067317eaa56\\transformed\\coordinatorlayout-1.2.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,6,16",
@@ -59,22 +40,39 @@
                     }
                 },
                 {
-                    "source": "I:\\fohr\\app\\src\\main\\res\\values\\themes.xml",
+                    "source": "I:\\pacmannik\\Pacman\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "100,328",
-                        "endLines": "5,7",
-                        "endColumns": "12,74",
-                        "endOffsets": "322,398"
+                        "startLines": "2,1,15,14,26,27,30,22,29,5,8,7,21,28,25,31,23,4,3,19,18,24,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "69,17,792,740,1352,1410,1561,1161,1512,210,314,258,1087,1459,1298,1614,1210,167,123,993,941,1245,1041",
+                        "endLines": "2,1,17,14,26,27,30,22,29,5,13,7,21,28,25,31,23,4,3,19,18,24,20",
+                        "endColumns": "52,50,13,50,56,47,51,47,47,44,13,54,72,51,52,48,33,41,42,46,50,51,44",
+                        "endOffsets": "117,63,935,786,1404,1453,1608,1204,1555,250,734,308,1155,1506,1346,1658,1239,204,161,1035,987,1292,1081"
                     },
                     "to": {
-                        "startLines": "2583,6557",
-                        "startColumns": "4,4",
-                        "startOffsets": "180863,459589",
-                        "endLines": "2586,6557",
-                        "endColumns": "12,73",
-                        "endOffsets": "180979,459658"
+                        "startLines": "1973,1975,1987,1990,1991,1992,1997,2001,2002,2003,2005,2011,2014,2053,2122,2123,2124,2130,2131,2132,2139,2140,2144",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "130540,130676,132343,132489,132540,132597,132870,133325,133373,133421,133619,134039,134307,139429,149945,149998,150047,150883,150925,150967,151575,151626,152097",
+                        "endLines": "1973,1975,1989,1990,1991,1992,1997,2001,2002,2003,2010,2011,2014,2053,2122,2123,2124,2130,2131,2132,2139,2140,2144",
+                        "endColumns": "52,50,13,50,56,47,51,47,47,44,13,54,72,51,52,48,33,41,41,46,50,51,44",
+                        "endOffsets": "130588,130722,132484,132535,132592,132640,132917,133368,133416,133461,134034,134089,134375,139476,149993,150042,150076,150920,150962,151009,151621,151673,152137"
+                    }
+                },
+                {
+                    "source": "I:\\pacmannik\\Pacman\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "90,148,204",
+                        "endColumns": "56,54,41",
+                        "endOffsets": "142,198,241"
+                    },
+                    "to": {
+                        "startLines": "1044,1045,1109",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "62054,62111,66269",
+                        "endColumns": "56,54,41",
+                        "endOffsets": "62106,62161,66306"
                     }
                 },
                 {
@@ -167,6 +165,23 @@
                     }
                 },
                 {
+                    "source": "I:\\pacmannik\\Pacman\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "5,4,2,3,7,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "204,157,57,105,286,245,326",
+                        "endColumns": "39,45,46,50,38,39,40",
+                        "endOffsets": "239,198,99,151,320,280,362"
+                    },
+                    "to": {
+                        "startLines": "640,653,654,655,699,961,962",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "32798,33728,33774,33821,36841,56524,56564",
+                        "endColumns": "39,45,46,50,38,39,40",
+                        "endOffsets": "32833,33769,33816,33867,36875,56559,56600"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Bartek\\.gradle\\caches\\transforms-3\\97a4d2fe2e5b23a93aa5a8e1aef6bb39\\transformed\\cardview-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,35,36,37,38,45,47,50,7",
@@ -205,6 +220,25 @@
                     }
                 },
                 {
+                    "source": "I:\\pacmannik\\Pacman\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,328",
+                        "endLines": "5,7",
+                        "endColumns": "12,74",
+                        "endOffsets": "322,398"
+                    },
+                    "to": {
+                        "startLines": "2583,6557",
+                        "startColumns": "4,4",
+                        "startOffsets": "180863,459589",
+                        "endLines": "2586,6557",
+                        "endColumns": "12,73",
+                        "endOffsets": "180979,459658"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Bartek\\.gradle\\caches\\transforms-3\\60b85bc8b158eb53a2835127b1a59dc9\\transformed\\recyclerview-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -221,25 +255,6 @@
                         "endLines": "506,1110,1111,1112,1120,1121,1122,1807,12639",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "25672,66365,66413,66469,67155,67231,67303,120411,765226"
-                    }
-                },
-                {
-                    "source": "I:\\fohr\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "2,1,15,14,26,27,30,22,29,5,8,7,21,28,25,31,23,4,3,19,18,24,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "69,17,792,740,1352,1410,1561,1161,1512,210,314,258,1087,1459,1298,1614,1210,167,123,993,941,1245,1041",
-                        "endLines": "2,1,17,14,26,27,30,22,29,5,13,7,21,28,25,31,23,4,3,19,18,24,20",
-                        "endColumns": "52,50,13,50,56,47,51,47,47,44,13,54,72,51,52,48,33,41,42,46,50,51,44",
-                        "endOffsets": "117,63,935,786,1404,1453,1608,1204,1555,250,734,308,1155,1506,1346,1658,1239,204,161,1035,987,1292,1081"
-                    },
-                    "to": {
-                        "startLines": "1973,1975,1987,1990,1991,1992,1997,2001,2002,2003,2005,2011,2014,2053,2122,2123,2124,2130,2131,2132,2139,2140,2144",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "130540,130676,132343,132489,132540,132597,132870,133325,133373,133421,133619,134039,134307,139429,149945,149998,150047,150883,150925,150967,151575,151626,152097",
-                        "endLines": "1973,1975,1989,1990,1991,1992,1997,2001,2002,2003,2010,2011,2014,2053,2122,2123,2124,2130,2131,2132,2139,2140,2144",
-                        "endColumns": "52,50,13,50,56,47,51,47,47,44,13,54,72,51,52,48,33,41,41,46,50,51,44",
-                        "endOffsets": "130588,130722,132484,132535,132592,132640,132917,133368,133416,133461,134034,134089,134375,139476,149993,150042,150076,150920,150962,151009,151621,151673,152137"
                     }
                 },
                 {
@@ -298,23 +313,6 @@
                     }
                 },
                 {
-                    "source": "I:\\fohr\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "5,4,2,3,7,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "204,157,57,105,286,245,326",
-                        "endColumns": "39,45,46,50,38,39,40",
-                        "endOffsets": "239,198,99,151,320,280,362"
-                    },
-                    "to": {
-                        "startLines": "640,653,654,655,699,961,962",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "32798,33728,33774,33821,36841,56524,56564",
-                        "endColumns": "39,45,46,50,38,39,40",
-                        "endOffsets": "32833,33769,33816,33867,36875,56559,56600"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Bartek\\.gradle\\caches\\transforms-3\\58d1aecd366973e62f66af21bdac6aaa\\transformed\\viewpager2-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -334,6 +332,25 @@
                     }
                 },
                 {
+                    "source": "I:\\pacmannik\\Pacman\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,15,10,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,540,384,634",
+                        "endLines": "8,15,13,17",
+                        "endColumns": "12,90,12,80",
+                        "endOffsets": "376,626,532,710"
+                    },
+                    "to": {
+                        "startLines": "2171,2177,2178,2182",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "154003,154287,154377,154527",
+                        "endLines": "2176,2177,2181,2182",
+                        "endColumns": "12,89,12,79",
+                        "endOffsets": "154282,154372,154522,154602"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Bartek\\.gradle\\caches\\transforms-3\\ba78cbbbf774187f83c85eebfffa34cc\\transformed\\drawerlayout-1.1.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5",
@@ -350,23 +367,6 @@
                         "endLines": "138,141,1058,11271",
                         "endColumns": "55,47,51,24",
                         "endOffsets": "7047,7203,62991,715081"
-                    }
-                },
-                {
-                    "source": "I:\\fohr\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "90,148,204",
-                        "endColumns": "56,54,41",
-                        "endOffsets": "142,198,241"
-                    },
-                    "to": {
-                        "startLines": "1044,1045,1109",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "62054,62111,66269",
-                        "endColumns": "56,54,41",
-                        "endOffsets": "62106,62161,66306"
                     }
                 },
                 {

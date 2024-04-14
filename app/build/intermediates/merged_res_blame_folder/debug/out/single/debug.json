@@ -1,314 +1,310 @@
 [
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_down3.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_down3.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_left.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_left.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\layout_paused_layout.xml.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\layout\\paused_layout.xml"
+        "merged": "com.example.myapplication.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.myapplication.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_up3.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_up3.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_right3.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_right3.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_right_arrow_frame1.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\right_arrow_frame1.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/raw_tetris_song.mp3.flat",
+        "source": "com.example.myapplication.app-main-33:/raw/tetris_song.mp3"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_right.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_right.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_down_arrow_frame7.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/down_arrow_frame7.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_up_arrow_frame6.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\up_arrow_frame6.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/layout_paused_layout.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/layout/paused_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_ghost2.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\ghost2.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_up_arrow_frame4.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/up_arrow_frame4.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_left_arrow_frame1.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/left_arrow_frame1.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_down_arrow_frame2.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\down_arrow_frame2.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-main-33:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_left_arrow_frame4.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/left_arrow_frame4.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_mute.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/mute.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pause.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pause.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_down1.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_down1.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_ghost3.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/ghost3.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_up_arrow_frame2.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\up_arrow_frame2.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_down_arrow_frame3.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/down_arrow_frame3.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_right3.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_right3.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/raw_pacman_song.mp3.flat",
+        "source": "com.example.myapplication.app-main-33:/raw/pacman_song.mp3"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_left2.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_left2.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_left2.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_left2.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_left.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_left.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_right_arrow_frame6.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/right_arrow_frame6.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\xml\\backup_rules.xml"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman.jpg.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman.jpg"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_down_arrow_frame5.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\down_arrow_frame5.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-main-33:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_left_arrow_frame6.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\left_arrow_frame6.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_right_arrow_frame4.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\right_arrow_frame4.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_up1.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_up1.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_down3.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_down3.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_down_arrow_frame6.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\down_arrow_frame6.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_right_arrow_frame5.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/right_arrow_frame5.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_right_arrow_frame7.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\right_arrow_frame7.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_right.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_right.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\layout_completed_layout.xml.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\layout\\completed_layout.xml"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_right2.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_right2.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_down2.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_down2.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_ghost0.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/ghost0.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_ghost3.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\ghost3.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_down_arrow_frame1.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/down_arrow_frame1.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\layout_settings_layout.xml.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\layout\\settings_layout.xml"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_left_arrow_frame2.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/left_arrow_frame2.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_up_arrow_frame5.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/up_arrow_frame5.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.myapplication.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_up_arrow_frame5.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\up_arrow_frame5.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_left3.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_left3.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_left_arrow_frame3.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\left_arrow_frame3.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_right_arrow_frame2.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/right_arrow_frame2.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_left1.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_left1.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.myapplication.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_down_arrow_frame4.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/down_arrow_frame4.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_right2.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_right2.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_left_arrow_frame5.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/left_arrow_frame5.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.myapplication.app-merged_res-31:/layout_settings_layout.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/layout/settings_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_right_arrow_frame3.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\right_arrow_frame3.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/layout_content_main.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/layout/content_main.xml"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_left_arrow_frame7.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\left_arrow_frame7.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/menu_menu_main.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/menu/menu_main.xml"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\layout_content_main.xml.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\layout\\content_main.xml"
+        "merged": "com.example.myapplication.app-merged_res-31:/layout_help_layout.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/layout/help_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_up_arrow_frame2.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/up_arrow_frame2.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_right_arrow_frame4.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/right_arrow_frame4.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman.jpg.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman.jpg"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_down_arrow_frame2.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/down_arrow_frame2.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_down.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_down.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_down.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_down.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_left_arrow_frame4.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\left_arrow_frame4.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_ghost1.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/ghost1.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_down_arrow_frame7.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\down_arrow_frame7.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_right_arrow_frame6.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\right_arrow_frame6.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_down_arrow_frame5.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/down_arrow_frame5.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_down1.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_down1.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_up_arrow_frame6.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/up_arrow_frame6.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\raw_pacman_song.mp3.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\raw\\pacman_song.mp3"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pause.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pause.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_up_arrow_frame1.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\up_arrow_frame1.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_down_arrow_frame3.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\down_arrow_frame3.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_left_arrow_frame6.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/left_arrow_frame6.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_right1.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_right1.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_left_arrow_frame1.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\left_arrow_frame1.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_up2.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_up2.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_right_arrow_frame2.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\right_arrow_frame2.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/layout_completed_layout.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/layout/completed_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\layout\\activity_main.xml"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_right_arrow_frame1.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/right_arrow_frame1.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_up1.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_up1.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_up_arrow_frame3.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/up_arrow_frame3.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_ghost0.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\ghost0.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_up_arrow_frame1.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/up_arrow_frame1.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\raw_tetris_song.mp3.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\raw\\tetris_song.mp3"
+        "merged": "com.example.myapplication.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_up_arrow_frame4.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\up_arrow_frame4.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_left_arrow_frame7.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/left_arrow_frame7.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\layout_failed_layout.xml.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\layout\\failed_layout.xml"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_down_arrow_frame6.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/down_arrow_frame6.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_up_arrow_frame7.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\up_arrow_frame7.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_right_arrow_frame3.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/right_arrow_frame3.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_left_arrow_frame5.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\left_arrow_frame5.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_up.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_up.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\menu_menu_main.xml.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\menu\\menu_main.xml"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_right1.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_right1.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_ghost1.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\ghost1.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_up_arrow_frame7.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/up_arrow_frame7.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_up.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_up.png"
-    },
-    {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_mute.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\mute.png"
-    },
-    {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_up_arrow_frame3.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\up_arrow_frame3.png"
-    },
-    {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\layout_help_layout.xml.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\layout\\help_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_left_arrow_frame3.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/left_arrow_frame3.png"
     },
     {
         "merged": "com.example.myapplication.app-merged_res-31:/layout_failed_layout.xml.flat",
         "source": "com.example.myapplication.app-main-33:/layout/failed_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_down_arrow_frame1.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\down_arrow_frame1.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_left_arrow_frame2.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\left_arrow_frame2.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myapplication.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_down_arrow_frame4.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\down_arrow_frame4.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_right_arrow_frame7.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/right_arrow_frame7.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_right_arrow_frame5.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\right_arrow_frame5.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_up2.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_up2.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-main-33:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-31:\\drawable_pacman_left3.png.flat",
-        "source": "C:\\Users\\Bartek\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-33:\\drawable\\pacman_left3.png"
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_left1.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_left1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_ghost2.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/ghost2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_down2.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_down2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-31:/drawable_pacman_up3.png.flat",
+        "source": "com.example.myapplication.app-main-33:/drawable/pacman_up3.png"
     }
 ]

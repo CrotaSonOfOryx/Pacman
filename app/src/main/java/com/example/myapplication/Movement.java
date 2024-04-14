@@ -2,6 +2,10 @@ package com.example.myapplication;
 
 import android.content.Intent;
 import android.content.Context;
+import org.json.JSONException;
+import org.json.JSONObject;
+import java.io.FileWriter;
+import java.io.IOException;
 
 public class Movement {
     //private instance vars
@@ -37,18 +41,33 @@ public class Movement {
     public Ghost getGhost2(){ return ghost2; }
     public Ghost getGhost3(){ return ghost3; }
     public int getSwipeDir(){ return swipeDir; }
+    JSONObject jsonObject = new JSONObject();
+
 
 
     //checks to see if game over happens
-    public void checkPlayerDeath() throws PlayerDeathException{
-        if(((ghost0.getXPos()/blockSize) == (pacman.getXPos()/blockSize))&&
-                ((ghost0.getYPos()/blockSize) == (pacman.getYPos()/blockSize)) ||
-                ((ghost1.getXPos()/blockSize) == (pacman.getXPos()/blockSize)) &&
-                ((ghost1.getYPos()/blockSize) == (pacman.getYPos()/blockSize)) ||
-                ((ghost2.getXPos()/blockSize) == (pacman.getXPos()/blockSize)) &&
-                ((ghost2.getYPos()/blockSize) == (pacman.getYPos()/blockSize)) ||
-                ((ghost3.getXPos()/blockSize) == (pacman.getXPos()/blockSize)) &&
-                ((ghost3.getYPos()/blockSize) == (pacman.getYPos()/blockSize))){
+    public void checkPlayerDeath() throws PlayerDeathException, JSONException {
+        if (((ghost0.getXPos() / blockSize) == (pacman.getXPos() / blockSize)) &&
+                ((ghost0.getYPos() / blockSize) == (pacman.getYPos() / blockSize)) ||
+                ((ghost1.getXPos() / blockSize) == (pacman.getXPos() / blockSize)) &&
+                        ((ghost1.getYPos() / blockSize) == (pacman.getYPos() / blockSize)) ||
+                ((ghost2.getXPos() / blockSize) == (pacman.getXPos() / blockSize)) &&
+                        ((ghost2.getYPos() / blockSize) == (pacman.getYPos() / blockSize)) ||
+                ((ghost3.getXPos() / blockSize) == (pacman.getXPos() / blockSize)) &&
+                        ((ghost3.getYPos() / blockSize) == (pacman.getYPos() / blockSize))) {
+
+            GameConditions gc = GameConditions.getInstance();
+            int currentScore = gc.getCurrentScore();
+            jsonObject.put("score", Integer.toString(currentScore));
+
+            // Write JSON object to a file
+            try (FileWriter file = new FileWriter("I:/pacmannik/Pacman/app/src/main/java/com/example/myapplication/score.json")) {
+                file.write(jsonObject.toString());
+                System.out.println("Successfully wrote JSON object to file.");
+            } catch (IOException e) {
+                e.printStackTrace();
+
+            }
             throw new PlayerDeathException("Pacman and Ghost collision");
         }
     }
@@ -696,7 +715,7 @@ public class Movement {
     public void tryDeath(Context context){
         try{
             checkPlayerDeath();
-        } catch (PlayerDeathException e){
+        } catch (PlayerDeathException | JSONException e){
             Intent failedIntent = new Intent(context, FailedLevelActivity.class);
             context.startActivity(failedIntent);
         }
