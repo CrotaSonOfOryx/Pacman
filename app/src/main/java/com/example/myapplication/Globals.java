@@ -1,5 +1,10 @@
 package com.example.myapplication;
 
+import static android.provider.Settings.System.getString;
+
+import android.view.View;
+import android.widget.TextView;
+
 public class Globals{
     private static Globals instance;
 
@@ -16,7 +21,7 @@ public class Globals{
     public int getHighScore(){
         return this.highScore;
     }
-
+    public int scores[]={this.highScore,160,140,110};
     public void setLevelSelector(int newLevel){this.levelSelector=newLevel;}
     public int getLevelSelector(){return this.levelSelector;}
 

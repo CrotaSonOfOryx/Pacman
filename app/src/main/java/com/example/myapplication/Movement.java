@@ -57,17 +57,6 @@ public class Movement {
                         ((ghost3.getYPos() / blockSize) == (pacman.getYPos() / blockSize))) {
 
             GameConditions gc = GameConditions.getInstance();
-            int currentScore = gc.getCurrentScore();
-            jsonObject.put("score", Integer.toString(currentScore));
-
-            // Write JSON object to a file
-            try (FileWriter file = new FileWriter("I:/pacmannik/Pacman/app/src/main/java/com/example/myapplication/score.json")) {
-                file.write(jsonObject.toString());
-                System.out.println("Successfully wrote JSON object to file.");
-            } catch (IOException e) {
-                e.printStackTrace();
-
-            }
             throw new PlayerDeathException("Pacman and Ghost collision");
         }
     }

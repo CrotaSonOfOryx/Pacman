@@ -3506,6 +3506,7 @@ id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
 id scale
+id scoresView
 id screen
 id scroll
 id scrollIndicatorDown

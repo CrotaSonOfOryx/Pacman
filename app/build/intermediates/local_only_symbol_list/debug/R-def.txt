@@ -73,6 +73,7 @@ id button5
 id imageView
 id imageView2
 id linearLayout
+id scoresView
 id textView
 id textView2
 id textView3
